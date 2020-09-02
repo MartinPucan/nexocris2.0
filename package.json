@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/MartinPucan/nexocris2.0#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
   }
 }
