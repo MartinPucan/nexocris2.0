@@ -1,2 +1,2 @@
-# nexocris2.0
+# Nexocris 2.0
 Rewrite old project - start with gulp from zero
