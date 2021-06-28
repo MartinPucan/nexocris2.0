@@ -19,7 +19,7 @@
   "devDependencies": {
     "browser-sync": "^2.26.12",
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.1.0",
+    "gulp-sass": "^5.0.0",
     "gulp-swig": "^0.9.1",
     "gulp-template": "^5.0.0",
     "gulp-twig": "^1.2.0"
